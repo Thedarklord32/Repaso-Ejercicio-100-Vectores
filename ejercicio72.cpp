@@ -11,7 +11,7 @@ int main() {
         cin >> A[i];
     }
 
-    // Calcular la suma total
+
     int sumaTotal = 0;
 
     for (int i = 0; i < N; i++) {
